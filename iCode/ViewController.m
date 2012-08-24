@@ -9,7 +9,6 @@
 #import "ViewController.h"
 #import "UserProfileViewController.h"
 #import "GlobalAuthenticatedUserInfo.h"
-#import "MainTabBarViewController.h"
 
 @interface ViewController ()
 
