@@ -5,5 +5,6 @@ iCode is a GitHub Client for iPhone.
 
 [![](http://farm4.static.flickr.com/3447/3378092101_40a62a04b2_m.jpg)](http://farm4.static.flickr.com/3447/3378092101_b064d8e339_o.jpg)
 
-[![](http://dropbox.com/s/7oyqtx90349cfiz/2013-01-16%2014.45.02.png)](http://dropbox.com/s/7oyqtx90349cfiz/2013-01-16%2014.45.02.png)
-[![](http://dropbox.com/s/lshjirckp8xjn8u/2013-01-16%2014.45.02.jpg)](http://dropbox.com/s/lshjirckp8xjn8u/2013-01-16%2014.45.02.jpg)
+![snapshot1](https://www.dropbox.com/s/7oyqtx90349cfiz/2013-01-16%2014.45.02.png)
+![snapshot2](https://www.dropbox.com/s/dzaa8drcv5ca2yd/2013-01-16%2014.45.24.png)
+![snapshot3](https://www.dropbox.com/s/0irj735fejwoasd/2013-01-16%2014.45.36.png)
